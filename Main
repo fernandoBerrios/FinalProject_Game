@@ -1,0 +1,19 @@
+Enter file contents herepackage edu.cpp.cs.cs141.FinalProject;
+
+/**
+ * 
+ * @author locuaso
+ * 
+ */
+public class Main {
+
+	/**
+	 * To launch the program
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+}
